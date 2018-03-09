@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World with OpenShift! by Finez</h2>
+<h2>Hello World with OpenShift! by Dominic Toretto!</h2>
 </body>
 </html>
